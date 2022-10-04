@@ -1,0 +1,31 @@
+* {
+    margin: 0%;
+    padding: 1%;
+    box-sizing:border-box;
+    align-items: center;
+    color:antiquewhite;
+    background-image: image();
+
+}
+body {
+    background-image: url(https://www.austriatourism.com/fileadmin/_processed_/a/1/csm_00000027325_Vorderstoder_Oesterreich-Werbung_Wolfgang-Weinhaeupl_9c3d253e25.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: yellowgreen;
+}
+
+li {
+    color: whitesmoke;
+}
+
+h1 {
+    color: black;
+}
+
+input {
+    color: black;
+}
+
+button {
+    color: black;
+}
